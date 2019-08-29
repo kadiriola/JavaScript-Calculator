@@ -1,0 +1,28 @@
+
+body {
+	margin: auto;
+	width: 800px;
+	padding: 10px 10px;
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+	background: linear-gradient(#b968c5 , #de1c2a); /* Standard syntax */
+}
+
+
+h1 {
+    font: 600 2.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+ button {
+	color: red;
+	background-color: black;
+}
+dt {
+	color: black;
+	font-weight: bold;
+}
